@@ -1,2 +1,2 @@
-# HYU-OS
-Linux scheduler
+# HYU-OS   
+Linux priority scheduler   
