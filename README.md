@@ -1,6 +1,9 @@
 # HYU-OS   
 Linux priority scheduler   
 
+### Mysched
+mysched 스케줄러는 fifo정책으로 동작하는 스케줄러이다   
+
 ### 기말 프로젝트 - 나만의 스케줄러 구현 (priority + preempt)
 전체적인 스케줄러의 동작은 priority 스케줄러이다.   
 우선순위는 총 0 ~ 5 까지 있고, 우선순위 별 queue가 구현되어 있다.   
