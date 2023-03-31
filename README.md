@@ -1,6 +1,8 @@
 # HYU-OS   
 Linux priority scheduler   
 
+### Myrr
+round robin 방식을 활용한 스케줄러이다
 ### Mysched
 mysched 스케줄러는 fifo정책으로 동작하는 스케줄러이다   
 
